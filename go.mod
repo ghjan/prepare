@@ -1,3 +1,3 @@
-module github.com/ghjan/prepare
+module prepare
 
 go 1.15
